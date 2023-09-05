@@ -6,4 +6,7 @@ Leetcode problem on Array and Hashing problem
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+- [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
